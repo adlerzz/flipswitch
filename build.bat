@@ -1,0 +1,1 @@
+pyinstaller main.py --onefile --console --icon icon.ico --name flipswitch.exe
